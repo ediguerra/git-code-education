@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 ola mundo teste alterado
+=======
+ola mundo teste daadasdas
+>>>>>>> funcionalidade1
